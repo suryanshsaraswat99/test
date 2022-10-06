@@ -2385,7 +2385,7 @@
       "selectLayoutFloatingButton": "Floating button",
       "selectPlaylistInfo": "Playlist ID for selected content. Please note channel name is necessary.",
       "textChannelMissing": "Some channels missing? Click below to update widget.",
-      "checkboxPIPInfo": "Please note, [necessary prerequisites](https:\/\/docs.firework.tv\/web\/troubleshooting#picture-in-picture-mode-is-failing) needs to be met for PIP to work properly.",
+      "checkboxPIPInfo": "Please note, [necessary prerequisites](https:\/\/docs.firework.tv\/web\/faq-and-troubleshooting#picture-in-picture-mode-is-failing) needs to be met for PIP to work properly.",
       "numberFloatingButtonVerticalOffsetInfo": "Vertical offset (px) for Floating Button player.",
       "selectLayoutStoryblock": "Storyblock",
       "numberFloatingButtonVerticalOffsetLabel": "Vertical offset",
